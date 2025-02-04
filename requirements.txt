@@ -1,8 +1,6 @@
 pandas
 matplotlib
 pyngrok
-matplotlib.pyplot
-matplotlib
 altair
 plotly.express
 seaborn
