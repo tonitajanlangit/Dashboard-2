@@ -25,7 +25,7 @@ else:
     df_filtered = df
 
 # Count movies per year
-movies_per_year = df_filtered['year'].value_counts()
+movies_per_year = df_filtered['release_year'].value_counts()
 
 # Main Title
 st.title("📽️ Netflix Movies Dashboard")
